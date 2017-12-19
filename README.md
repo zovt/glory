@@ -1,2 +1,2 @@
 # glory
-A Theme For {Tumblr}
+A theme for various microblogging platforms
